@@ -25,6 +25,8 @@
         <mapping class="ru.job4j.hibernate.model.Book"/>
         <mapping class="ru.job4j.hibernate.model.Task"/>
         <mapping class="ru.job4j.hibernate.model.Category"/>
+        <mapping class="ru.job4j.hibernate.model.CarBrand"/>
+        <mapping class="ru.job4j.hibernate.model.CarModel"/>
 
     </session-factory>
 </hibernate-configuration>
