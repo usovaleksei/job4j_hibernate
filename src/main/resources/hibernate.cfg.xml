@@ -23,6 +23,8 @@
         <mapping class="ru.job4j.hibernate.model.Person"/>
         <mapping class="ru.job4j.hibernate.model.Author"/>
         <mapping class="ru.job4j.hibernate.model.Book"/>
+        <mapping class="ru.job4j.hibernate.model.Task"/>
+        <mapping class="ru.job4j.hibernate.model.Category"/>
 
     </session-factory>
 </hibernate-configuration>
